@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Vhax</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/productsansbold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/productsansregular</string>
+
+</resources>
